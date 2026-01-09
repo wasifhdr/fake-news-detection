@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📌 Project Overview
-This project is a Machine Learning model designed to detect and classify news articles as either **Real** or **Fake**. With the rapid spread of misinformation on social media, automated systems like this help in verifying the authenticity of news sources effectively. I initially tested the performance of 7 models (PAC, Linear SVC, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, Voting Classifier with Logistic Regression, Linear SVC, PAC) on the dataset. PAC performed the best so I used that to test on an external dataset. This gave me an accuracy of 96.97%.
+This project is a Machine Learning model designed to detect and classify news articles as either **Real** or **Fake**. I worked on this for my CSE445 semester project. With the rapid spread of misinformation on social media, automated systems like this help in verifying the authenticity of news sources effectively. I initially tested the performance of 7 models (PAC, Linear SVC, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, Voting Classifier with Logistic Regression, Linear SVC, PAC) on the dataset. PAC performed the best so I used that to test on an external dataset. This gave me an accuracy of 96.97%.
 
 ## ⚙️ Tech Stack
 * **Language:** Python

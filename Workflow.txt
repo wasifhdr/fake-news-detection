@@ -1,0 +1,4 @@
+1. Pre-processing
+2. Encoding using bag of words and N-grams, then TF-IDF
+3. Extraction of characteristics
+4. Classification

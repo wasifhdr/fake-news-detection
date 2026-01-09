@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
+
+# Ignore large datasets (GitHub has a strict size limit)
+*.csv
+*.zip
+datasets/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
